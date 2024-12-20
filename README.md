@@ -3,7 +3,7 @@
 
 1. **Клонировать репозиторий:**  
    ```bash
-   git clone https://github.com/nioh13/feedback_project
+   git clone https://github.com/nioh13/feedback_project.git
    ```
    
 2. **Перейти в директорию проекта и установить зависимости:**
